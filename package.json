@@ -1,0 +1,14 @@
+{
+  "name": "electricity-app-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "electricity.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
